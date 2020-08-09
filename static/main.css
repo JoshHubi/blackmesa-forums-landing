@@ -106,9 +106,11 @@ a:hover {
 }
 
 .message svg {
+	display: block;
 	fill: #fff;
 	width: 70px;
 	height: auto;
+	margin: auto;
 	margin-bottom: 15px;
 }
 
